@@ -37,3 +37,20 @@
 4. Created the initial SCM record.
 5. Created the .gitignore file.
 6. Initialized Git and prepared the first commit.
+
+## the new one
+
+# Software Configuration Management Record
+
+## Baseline
+
+Baseline ID: BL-01
+
+Version: v0.1.0
+
+Date: 2026-11-02
+
+Included Changes:
+- CR-01
+
+Status: Approved
