@@ -18,13 +18,14 @@ The project also aims to demonstrate effective Software Configuration Management
 
 | Student   | Role            | Responsibility                                                                                     |
 | --------- | --------------- | -------------------------------------------------------------------------------------------------- |
-| Student 1 | SCM Lead        | Manage configuration items, maintain SCM documentation, and coordinate version control activities. |
-| Student 2 | Developer       | Develop and maintain application features.                                                         |
-| Student 3 | Developer       | Develop and maintain application features.                                                         |
-| Student 4 | Developer       | Develop and maintain application features.                                                         |
-| Student 5 | Reviewer/Tester | Review source code, test application functionality, and report defects.                            |
+| Sangeethan | SCM Lead        | Manage configuration items, maintain SCM documentation, and coordinate version control activities. |
+| Thushanan  | Developer       | Develop and maintain application features.                                                         |
+| Athujan    | Developer       | Develop and maintain application features.                                                         |
+| Gimna      | Developer       | Develop and maintain application features.                                                         |
+| Tharushi   | Developer       | Develop and maintain application features.                                                         | 
+| Dilini     | Reviewer/Tester | Review source code, test application functionality, and report defects.                            |
 
-**Note:** Replace the student numbers with the actual names of your team members.
+
 
 ## 4. Main Features
 
@@ -112,12 +113,8 @@ The application is not intended to be production-ready. The primary assessment f
 
 ## 10. Project Status
 
-**Current Version:** v0.1
+Initial version completed.
 
-**Status:** Initial project setup and configuration management activities.
-
-The project will be updated incrementally as new features are developed, tested, reviewed, and committed to the repository.
-
----
+Version: 0.1.0
 
 *Developed as part of the Software Configuration Management practical.*
