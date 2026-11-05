@@ -1,7 +1,5 @@
 # Library Management System
 
-## this is a temporarymistake.
-
 ## 1. Project Overview
 
 The Library Management System is a small web-based application developed as part of the Software Configuration Management (SCM) practical.
