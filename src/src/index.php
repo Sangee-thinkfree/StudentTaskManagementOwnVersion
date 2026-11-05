@@ -14,6 +14,13 @@
     <p>Task 02 - Simple & Functional Project Version</p>
   </header>
 
+  <div class="search-container">
+        <h2>Library Search</h2>
+        <input type="text" id="searchInput" placeholder="Search by title or author..." autocomplete="off">
+        
+        <div id="searchResults" class="results-container"></div>
+  </div>
+
   <!-- Container -->
   <div class="container">
 
